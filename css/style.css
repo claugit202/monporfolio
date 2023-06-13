@@ -1310,7 +1310,7 @@ a:focus {
 }
 
 .contact .container-fluid {
-    background: url(../img/contact.jpg) left center no-repeat;
+    background: url(../img/cloclo.jpg) left center no-repeat;
     background-size: contain;
 }
 
@@ -1465,7 +1465,7 @@ a:focus {
 .footer {
     position: relative;
     margin-top: 45px;
-    background: hsl(241, 86%, 54%);;
+    background: hsl(241, 86%, 54%);
 }
 
 .footer .container-fluid {
